@@ -2,7 +2,7 @@
 This respository is part of the Zurich hackathon of [Swiss {ai} Week](https://swiss-ai-weeks.ch/) happening on 26/27 September 2025.
 
 By accessing or using the data provided, you agree to the following terms and conditions.
-## Terms and conditions
+## Terms and Conditions
 > The data is provided solely for the purpose of participating in the hackathon event held in Zurich, Switzerland, and for developing solutions directly related to the specific challenge you have selected. You are strictly prohibited from using the Data for any other purpose, including but not limited to:
 > - Commercial use.
 > - Research or development outside the scope of this hackathon challenge.
